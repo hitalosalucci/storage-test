@@ -3,1500 +3,2490 @@
         "name": "Bangladesh",
         "currency": "BDT",
         "iso2": "BD",
-        "iso3": "BGD"
+        "iso3": "BGD",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Belgium",
         "currency": "EUR",
         "iso2": "BE",
-        "iso3": "BEL"
+        "iso3": "BEL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Burkina Faso",
         "currency": "XOF",
         "iso2": "BF",
-        "iso3": "BFA"
+        "iso3": "BFA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Bulgaria",
         "currency": "BGN",
         "iso2": "BG",
-        "iso3": "BGR"
+        "iso3": "BGR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Bosnia and Herzegovina",
         "currency": "BAM",
         "iso2": "BA",
-        "iso3": "BIH"
+        "iso3": "BIH",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Barbados",
         "currency": "BBD",
         "iso2": "BB",
-        "iso3": "BRB"
+        "iso3": "BRB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Wallis and Futuna",
         "currency": "XPF",
         "iso2": "WF",
-        "iso3": "WLF"
+        "iso3": "WLF",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Saint Barthelemy",
         "currency": "EUR",
         "iso2": "BL",
-        "iso3": "BLM"
+        "iso3": "BLM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Bermuda",
         "currency": "BMD",
         "iso2": "BM",
-        "iso3": "BMU"
+        "iso3": "BMU",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Brunei",
         "currency": "BND",
         "iso2": "BN",
-        "iso3": "BRN"
+        "iso3": "BRN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Bolivia",
         "currency": "BOB",
         "iso2": "BO",
-        "iso3": "BOL"
+        "iso3": "BOL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Bahrain",
         "currency": "BHD",
         "iso2": "BH",
-        "iso3": "BHR"
+        "iso3": "BHR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Burundi",
         "currency": "BIF",
         "iso2": "BI",
-        "iso3": "BDI"
+        "iso3": "BDI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Benin",
         "currency": "XOF",
         "iso2": "BJ",
-        "iso3": "BEN"
+        "iso3": "BEN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Bhutan",
         "currency": "BTN",
         "iso2": "BT",
-        "iso3": "BTN"
+        "iso3": "BTN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Jamaica",
         "currency": "JMD",
         "iso2": "JM",
-        "iso3": "JAM"
+        "iso3": "JAM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Bouvet Island",
         "currency": "NOK",
         "iso2": "BV",
-        "iso3": "BVT"
+        "iso3": "BVT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Botswana",
         "currency": "BWP",
         "iso2": "BW",
-        "iso3": "BWA"
+        "iso3": "BWA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Samoa",
         "currency": "WST",
         "iso2": "WS",
-        "iso3": "WSM"
+        "iso3": "WSM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Bonaire, Saint Eustatius and Saba ",
         "currency": "USD",
         "iso2": "BQ",
-        "iso3": "BES"
+        "iso3": "BES",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Brazil",
         "currency": "BRL",
         "iso2": "BR",
-        "iso3": "BRA"
+        "iso3": "BRA",
+        "documentCodePersona": "cpf",
+        "maskPersona": "000.000.000-00",
+        "documentCodeCompany": "cnpj",
+        "maskCompany": "00.000.000/0000-00"
     },
     {
         "name": "Bahamas",
         "currency": "BSD",
         "iso2": "BS",
-        "iso3": "BHS"
+        "iso3": "BHS",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Jersey",
         "currency": "GBP",
         "iso2": "JE",
-        "iso3": "JEY"
+        "iso3": "JEY",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Belarus",
-        "currency": "BYR",
+        "currency": "BYN",
         "iso2": "BY",
-        "iso3": "BLR"
+        "iso3": "BLR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Belize",
         "currency": "BZD",
         "iso2": "BZ",
-        "iso3": "BLZ"
+        "iso3": "BLZ",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Russia",
         "currency": "RUB",
         "iso2": "RU",
-        "iso3": "RUS"
+        "iso3": "RUS",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Rwanda",
         "currency": "RWF",
         "iso2": "RW",
-        "iso3": "RWA"
+        "iso3": "RWA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Serbia",
         "currency": "RSD",
         "iso2": "RS",
-        "iso3": "SRB"
+        "iso3": "SRB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Timor-Leste",
         "currency": "USD",
         "iso2": "TL",
-        "iso3": "TLS"
+        "iso3": "TLS",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Réunion",
         "currency": "EUR",
         "iso2": "RE",
-        "iso3": "REU"
+        "iso3": "REU",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Turkmenistan",
         "currency": "TMT",
         "iso2": "TM",
-        "iso3": "TKM"
+        "iso3": "TKM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Tajikistan",
         "currency": "TJS",
         "iso2": "TJ",
-        "iso3": "TJK"
+        "iso3": "TJK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Romania",
         "currency": "RON",
         "iso2": "RO",
-        "iso3": "ROU"
+        "iso3": "ROU",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Tokelau",
         "currency": "NZD",
         "iso2": "TK",
-        "iso3": "TKL"
+        "iso3": "TKL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Guinea-Bissau",
         "currency": "XOF",
         "iso2": "GW",
-        "iso3": "GNB"
+        "iso3": "GNB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Guam",
         "currency": "USD",
         "iso2": "GU",
-        "iso3": "GUM"
+        "iso3": "GUM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Guatemala",
         "currency": "GTQ",
         "iso2": "GT",
-        "iso3": "GTM"
+        "iso3": "GTM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "South Georgia and the South Sandwich Islands",
         "currency": "GBP",
         "iso2": "GS",
-        "iso3": "SGS"
+        "iso3": "SGS",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Greece",
         "currency": "EUR",
         "iso2": "GR",
-        "iso3": "GRC"
+        "iso3": "GRC",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Equatorial Guinea",
         "currency": "XAF",
         "iso2": "GQ",
-        "iso3": "GNQ"
+        "iso3": "GNQ",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Guadeloupe",
         "currency": "EUR",
         "iso2": "GP",
-        "iso3": "GLP"
+        "iso3": "GLP",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Japan",
         "currency": "JPY",
         "iso2": "JP",
-        "iso3": "JPN"
+        "iso3": "JPN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Guyana",
         "currency": "GYD",
         "iso2": "GY",
-        "iso3": "GUY"
+        "iso3": "GUY",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Guernsey",
         "currency": "GBP",
         "iso2": "GG",
-        "iso3": "GGY"
+        "iso3": "GGY",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Georgia",
         "currency": "GEL",
         "iso2": "GE",
-        "iso3": "GEO"
+        "iso3": "GEO",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Grenada",
         "currency": "XCD",
         "iso2": "GD",
-        "iso3": "GRD"
+        "iso3": "GRD",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "United Kingdom",
         "currency": "GBP",
         "iso2": "GB",
-        "iso3": "GBR"
+        "iso3": "GBR",
+        "documentCodePersona": "nino",
+        "maskPersona": "AA000000A",
+        "documentCodeCompany": "utr",
+        "maskCompany": "0000000000"
     },
     {
         "name": "Gabon",
         "currency": "XAF",
         "iso2": "GA",
-        "iso3": "GAB"
+        "iso3": "GAB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "El Salvador",
         "currency": "USD",
         "iso2": "SV",
-        "iso3": "SLV"
+        "iso3": "SLV",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Guinea",
         "currency": "GNF",
         "iso2": "GN",
-        "iso3": "GIN"
+        "iso3": "GIN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Gambia",
         "currency": "GMD",
         "iso2": "GM",
-        "iso3": "GMB"
+        "iso3": "GMB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Greenland",
         "currency": "DKK",
         "iso2": "GL",
-        "iso3": "GRL"
+        "iso3": "GRL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Gibraltar",
         "currency": "GIP",
         "iso2": "GI",
-        "iso3": "GIB"
+        "iso3": "GIB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Ghana",
         "currency": "GHS",
         "iso2": "GH",
-        "iso3": "GHA"
+        "iso3": "GHA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Oman",
         "currency": "OMR",
         "iso2": "OM",
-        "iso3": "OMN"
+        "iso3": "OMN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Tunisia",
         "currency": "TND",
         "iso2": "TN",
-        "iso3": "TUN"
+        "iso3": "TUN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Jordan",
         "currency": "JOD",
         "iso2": "JO",
-        "iso3": "JOR"
+        "iso3": "JOR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Croatia",
         "currency": "HRK",
         "iso2": "HR",
-        "iso3": "HRV"
+        "iso3": "HRV",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Haiti",
         "currency": "HTG",
         "iso2": "HT",
-        "iso3": "HTI"
+        "iso3": "HTI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Hungary",
         "currency": "HUF",
         "iso2": "HU",
-        "iso3": "HUN"
+        "iso3": "HUN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Hong Kong",
         "currency": "HKD",
         "iso2": "HK",
-        "iso3": "HKG"
+        "iso3": "HKG",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Honduras",
         "currency": "HNL",
         "iso2": "HN",
-        "iso3": "HND"
+        "iso3": "HND",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Heard Island and McDonald Islands",
         "currency": "AUD",
         "iso2": "HM",
-        "iso3": "HMD"
+        "iso3": "HMD",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Venezuela",
-        "currency": "VEF",
+        "currency": "VES",
         "iso2": "VE",
-        "iso3": "VEN"
+        "iso3": "VEN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Vatican City State (Holy See)",
         "currency": "EUR",
         "iso2": "VA",
-        "iso3": "VAT"
+        "iso3": "VAT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Puerto Rico",
         "currency": "USD",
         "iso2": "PR",
-        "iso3": "PRI"
+        "iso3": "PRI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Palestinian Territory",
         "currency": "ILS",
         "iso2": "PS",
-        "iso3": "PSE"
+        "iso3": "PSE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Palau",
         "currency": "USD",
         "iso2": "PW",
-        "iso3": "PLW"
+        "iso3": "PLW",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Portugal",
         "currency": "EUR",
         "iso2": "PT",
-        "iso3": "PRT"
+        "iso3": "PRT",
+        "documentCodePersona": "nif",
+        "maskPersona": "000000000",
+        "documentCodeCompany": "nipc",
+        "maskCompany": "000000000"
     },
     {
         "name": "Svalbard and Jan Mayen",
         "currency": "NOK",
         "iso2": "SJ",
-        "iso3": "SJM"
+        "iso3": "SJM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Paraguay",
         "currency": "PYG",
         "iso2": "PY",
-        "iso3": "PRY"
+        "iso3": "PRY",
+        "documentCodePersona": "ci",
+        "maskPersona": "0000000",
+        "documentCodeCompany": "ruc",
+        "maskCompany": "0000000-0"
     },
     {
         "name": "Iraq",
         "currency": "IQD",
         "iso2": "IQ",
-        "iso3": "IRQ"
+        "iso3": "IRQ",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Panama",
         "currency": "PAB",
         "iso2": "PA",
-        "iso3": "PAN"
+        "iso3": "PAN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "French Polynesia",
         "currency": "XPF",
         "iso2": "PF",
-        "iso3": "PYF"
+        "iso3": "PYF",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Papua New Guinea",
         "currency": "PGK",
         "iso2": "PG",
-        "iso3": "PNG"
+        "iso3": "PNG",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Peru",
         "currency": "PEN",
         "iso2": "PE",
-        "iso3": "PER"
+        "iso3": "PER",
+        "documentCodePersona": "dni",
+        "maskPersona": "00000000",
+        "documentCodeCompany": "ruc",
+        "maskCompany": "00000000000"
     },
     {
         "name": "Pakistan",
         "currency": "PKR",
         "iso2": "PK",
-        "iso3": "PAK"
+        "iso3": "PAK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Philippines",
         "currency": "PHP",
         "iso2": "PH",
-        "iso3": "PHL"
+        "iso3": "PHL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Pitcairn",
         "currency": "NZD",
         "iso2": "PN",
-        "iso3": "PCN"
+        "iso3": "PCN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Poland",
         "currency": "PLN",
         "iso2": "PL",
-        "iso3": "POL"
+        "iso3": "POL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Saint Pierre and Miquelon",
         "currency": "EUR",
         "iso2": "PM",
-        "iso3": "SPM"
+        "iso3": "SPM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Zambia",
-        "currency": "ZMK",
+        "currency": "ZMW",
         "iso2": "ZM",
-        "iso3": "ZMB"
+        "iso3": "ZMB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Western Sahara",
         "currency": "MAD",
         "iso2": "EH",
-        "iso3": "ESH"
+        "iso3": "ESH",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Estonia",
         "currency": "EUR",
         "iso2": "EE",
-        "iso3": "EST"
+        "iso3": "EST",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Egypt",
         "currency": "EGP",
         "iso2": "EG",
-        "iso3": "EGY"
+        "iso3": "EGY",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Cocos (Keeling) Islands",
         "currency": "AUD",
         "iso2": "CC",
-        "iso3": "CCK"
+        "iso3": "CCK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "South Africa",
         "currency": "ZAR",
         "iso2": "ZA",
-        "iso3": "ZAF"
+        "iso3": "ZAF",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Ecuador",
         "currency": "USD",
         "iso2": "EC",
-        "iso3": "ECU"
+        "iso3": "ECU",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Italy",
         "currency": "EUR",
         "iso2": "IT",
-        "iso3": "ITA"
+        "iso3": "ITA",
+        "documentCodePersona": "codice_fiscale",
+        "maskPersona": "AAAAAA00A00A000A",
+        "documentCodeCompany": "partita_iva",
+        "maskCompany": "00000000000"
     },
     {
         "name": "Vietnam",
         "currency": "VND",
         "iso2": "VN",
-        "iso3": "VNM"
+        "iso3": "VNM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Solomon Islands",
         "currency": "SBD",
         "iso2": "SB",
-        "iso3": "SLB"
+        "iso3": "SLB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Ethiopia",
         "currency": "ETB",
         "iso2": "ET",
-        "iso3": "ETH"
+        "iso3": "ETH",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Somalia",
         "currency": "SOS",
         "iso2": "SO",
-        "iso3": "SOM"
+        "iso3": "SOM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Zimbabwe",
         "currency": "ZWL",
         "iso2": "ZW",
-        "iso3": "ZWE"
+        "iso3": "ZWE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Saudi Arabia",
         "currency": "SAR",
         "iso2": "SA",
-        "iso3": "SAU"
+        "iso3": "SAU",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Spain",
         "currency": "EUR",
         "iso2": "ES",
-        "iso3": "ESP"
+        "iso3": "ESP",
+        "documentCodePersona": "dni",
+        "maskPersona": "00000000A",
+        "documentCodeCompany": "cif",
+        "maskCompany": "A00000000"
     },
     {
         "name": "Eritrea",
         "currency": "ERN",
         "iso2": "ER",
-        "iso3": "ERI"
+        "iso3": "ERI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Montenegro",
         "currency": "EUR",
         "iso2": "ME",
-        "iso3": "MNE"
+        "iso3": "MNE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Moldova",
         "currency": "MDL",
         "iso2": "MD",
-        "iso3": "MDA"
+        "iso3": "MDA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Madagascar",
         "currency": "MGA",
         "iso2": "MG",
-        "iso3": "MDG"
+        "iso3": "MDG",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Saint Martin",
         "currency": "EUR",
         "iso2": "MF",
-        "iso3": "MAF"
+        "iso3": "MAF",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Morocco",
         "currency": "MAD",
         "iso2": "MA",
-        "iso3": "MAR"
+        "iso3": "MAR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Monaco",
         "currency": "EUR",
         "iso2": "MC",
-        "iso3": "MCO"
+        "iso3": "MCO",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Uzbekistan",
         "currency": "UZS",
         "iso2": "UZ",
-        "iso3": "UZB"
+        "iso3": "UZB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Myanmar",
         "currency": "MMK",
         "iso2": "MM",
-        "iso3": "MMR"
+        "iso3": "MMR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Mali",
         "currency": "XOF",
         "iso2": "ML",
-        "iso3": "MLI"
+        "iso3": "MLI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Macau",
         "currency": "MOP",
         "iso2": "MO",
-        "iso3": "MAC"
+        "iso3": "MAC",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Mongolia",
         "currency": "MNT",
         "iso2": "MN",
-        "iso3": "MNG"
+        "iso3": "MNG",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Marshall Islands",
         "currency": "USD",
         "iso2": "MH",
-        "iso3": "MHL"
+        "iso3": "MHL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Macedonia",
         "currency": "MKD",
         "iso2": "MK",
-        "iso3": "MKD"
+        "iso3": "MKD",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Mauritius",
         "currency": "MUR",
         "iso2": "MU",
-        "iso3": "MUS"
+        "iso3": "MUS",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Malta",
         "currency": "EUR",
         "iso2": "MT",
-        "iso3": "MLT"
+        "iso3": "MLT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Malawi",
         "currency": "MWK",
         "iso2": "MW",
-        "iso3": "MWI"
+        "iso3": "MWI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Maldives",
         "currency": "MVR",
         "iso2": "MV",
-        "iso3": "MDV"
+        "iso3": "MDV",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Martinique",
         "currency": "EUR",
         "iso2": "MQ",
-        "iso3": "MTQ"
+        "iso3": "MTQ",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Northern Mariana Islands",
         "currency": "USD",
         "iso2": "MP",
-        "iso3": "MNP"
+        "iso3": "MNP",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Montserrat",
         "currency": "XCD",
         "iso2": "MS",
-        "iso3": "MSR"
+        "iso3": "MSR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Mauritania",
         "currency": "MRO",
         "iso2": "MR",
-        "iso3": "MRT"
+        "iso3": "MRT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Isle of Man",
         "currency": "GBP",
         "iso2": "IM",
-        "iso3": "IMN"
+        "iso3": "IMN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Uganda",
         "currency": "UGX",
         "iso2": "UG",
-        "iso3": "UGA"
+        "iso3": "UGA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Tanzania",
         "currency": "TZS",
         "iso2": "TZ",
-        "iso3": "TZA"
+        "iso3": "TZA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Malaysia",
         "currency": "MYR",
         "iso2": "MY",
-        "iso3": "MYS"
+        "iso3": "MYS",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Mexico",
         "currency": "MXN",
         "iso2": "MX",
-        "iso3": "MEX"
+        "iso3": "MEX",
+        "documentCodePersona": "curp",
+        "maskPersona": "AAAA000000AAAAAA00",
+        "documentCodeCompany": "rfc",
+        "maskCompany": "AAA000000AAA"
     },
     {
         "name": "Israel",
         "currency": "ILS",
         "iso2": "IL",
-        "iso3": "ISR"
+        "iso3": "ISR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "France",
         "currency": "EUR",
         "iso2": "FR",
-        "iso3": "FRA"
+        "iso3": "FRA",
+        "documentCodePersona": "insee",
+        "maskPersona": "0 00 00 00 000 000",
+        "documentCodeCompany": "siren",
+        "maskCompany": "000000000"
     },
     {
         "name": "British Indian Ocean Territory",
         "currency": "USD",
         "iso2": "IO",
-        "iso3": "IOT"
+        "iso3": "IOT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Saint Helena",
         "currency": "SHP",
         "iso2": "SH",
-        "iso3": "SHN"
+        "iso3": "SHN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Finland",
         "currency": "EUR",
         "iso2": "FI",
-        "iso3": "FIN"
+        "iso3": "FIN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Fiji",
         "currency": "FJD",
         "iso2": "FJ",
-        "iso3": "FJI"
+        "iso3": "FJI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Falkland Islands",
         "currency": "FKP",
         "iso2": "FK",
-        "iso3": "FLK"
+        "iso3": "FLK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Micronesia",
         "currency": "USD",
         "iso2": "FM",
-        "iso3": "FSM"
+        "iso3": "FSM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Faroe Islands",
         "currency": "DKK",
         "iso2": "FO",
-        "iso3": "FRO"
+        "iso3": "FRO",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Nicaragua",
         "currency": "NIO",
         "iso2": "NI",
-        "iso3": "NIC"
+        "iso3": "NIC",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Netherlands",
         "currency": "EUR",
         "iso2": "NL",
-        "iso3": "NLD"
+        "iso3": "NLD",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Norway",
         "currency": "NOK",
         "iso2": "NO",
-        "iso3": "NOR"
+        "iso3": "NOR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Namibia",
         "currency": "NAD",
         "iso2": "NA",
-        "iso3": "NAM"
+        "iso3": "NAM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Vanuatu",
         "currency": "VUV",
         "iso2": "VU",
-        "iso3": "VUT"
+        "iso3": "VUT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "New Caledonia",
         "currency": "XPF",
         "iso2": "NC",
-        "iso3": "NCL"
+        "iso3": "NCL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Niger",
         "currency": "XOF",
         "iso2": "NE",
-        "iso3": "NER"
+        "iso3": "NER",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Norfolk Island",
         "currency": "AUD",
         "iso2": "NF",
-        "iso3": "NFK"
+        "iso3": "NFK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Nigeria",
         "currency": "NGN",
         "iso2": "NG",
-        "iso3": "NGA"
+        "iso3": "NGA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "New Zealand",
         "currency": "NZD",
         "iso2": "NZ",
-        "iso3": "NZL"
+        "iso3": "NZL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Nepal",
         "currency": "NPR",
         "iso2": "NP",
-        "iso3": "NPL"
+        "iso3": "NPL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Nauru",
         "currency": "AUD",
         "iso2": "NR",
-        "iso3": "NRU"
+        "iso3": "NRU",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Niue",
         "currency": "NZD",
         "iso2": "NU",
-        "iso3": "NIU"
+        "iso3": "NIU",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Cook Islands",
         "currency": "NZD",
         "iso2": "CK",
-        "iso3": "COK"
+        "iso3": "COK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Kosovo",
         "currency": "EUR",
         "iso2": "XK",
-        "iso3": "XKX"
+        "iso3": "XKX",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Ivory Coast",
         "currency": "XOF",
         "iso2": "CI",
-        "iso3": "CIV"
+        "iso3": "CIV",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Switzerland",
         "currency": "CHF",
         "iso2": "CH",
-        "iso3": "CHE"
+        "iso3": "CHE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Colombia",
         "currency": "COP",
         "iso2": "CO",
-        "iso3": "COL"
+        "iso3": "COL",
+        "documentCodePersona": "cc",
+        "maskPersona": "0000000000",
+        "documentCodeCompany": "nit",
+        "maskCompany": "000000000-0"
     },
     {
         "name": "China",
         "currency": "CNY",
         "iso2": "CN",
-        "iso3": "CHN"
+        "iso3": "CHN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Cameroon",
         "currency": "XAF",
         "iso2": "CM",
-        "iso3": "CMR"
+        "iso3": "CMR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Chile",
         "currency": "CLP",
         "iso2": "CL",
-        "iso3": "CHL"
-    },
-    {
-        "name": "Cocos Islands",
-        "currency": "AUD",
-        "iso2": "CC",
-        "iso3": "CCK"
+        "iso3": "CHL",
+        "documentCodePersona": "rut",
+        "maskPersona": "00.000.000-0",
+        "documentCodeCompany": "rut",
+        "maskCompany": "00.000.000-0"
     },
     {
         "name": "Canada",
         "currency": "CAD",
         "iso2": "CA",
-        "iso3": "CAN"
+        "iso3": "CAN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Congo",
         "currency": "XAF",
         "iso2": "CG",
-        "iso3": "COG"
+        "iso3": "COG",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Central African Republic",
         "currency": "XAF",
         "iso2": "CF",
-        "iso3": "CAF"
+        "iso3": "CAF",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Democratic Republic of the Congo",
         "currency": "CDF",
         "iso2": "CD",
-        "iso3": "COD"
+        "iso3": "COD",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Czech Republic",
         "currency": "CZK",
         "iso2": "CZ",
-        "iso3": "CZE"
+        "iso3": "CZE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Cyprus",
         "currency": "EUR",
         "iso2": "CY",
-        "iso3": "CYP"
+        "iso3": "CYP",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Christmas Island",
         "currency": "AUD",
         "iso2": "CX",
-        "iso3": "CXR"
+        "iso3": "CXR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Costa Rica",
         "currency": "CRC",
         "iso2": "CR",
-        "iso3": "CRI"
+        "iso3": "CRI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Curacao",
         "currency": "ANG",
         "iso2": "CW",
-        "iso3": "CUW"
+        "iso3": "CUW",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Cape Verde",
         "currency": "CVE",
         "iso2": "CV",
-        "iso3": "CPV"
+        "iso3": "CPV",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Cuba",
         "currency": "CUP",
         "iso2": "CU",
-        "iso3": "CUB"
+        "iso3": "CUB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Swaziland",
         "currency": "SZL",
         "iso2": "SZ",
-        "iso3": "SWZ"
+        "iso3": "SWZ",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Syria",
         "currency": "SYP",
         "iso2": "SY",
-        "iso3": "SYR"
+        "iso3": "SYR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Sint Maarten",
         "currency": "ANG",
         "iso2": "SX",
-        "iso3": "SXM"
+        "iso3": "SXM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Kyrgyzstan",
         "currency": "KGS",
         "iso2": "KG",
-        "iso3": "KGZ"
+        "iso3": "KGZ",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Kenya",
         "currency": "KES",
         "iso2": "KE",
-        "iso3": "KEN"
+        "iso3": "KEN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "South Sudan",
         "currency": "SSP",
         "iso2": "SS",
-        "iso3": "SSD"
+        "iso3": "SSD",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Suriname",
         "currency": "SRD",
         "iso2": "SR",
-        "iso3": "SUR"
+        "iso3": "SUR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Kiribati",
         "currency": "AUD",
         "iso2": "KI",
-        "iso3": "KIR"
+        "iso3": "KIR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Cambodia",
         "currency": "KHR",
         "iso2": "KH",
-        "iso3": "KHM"
+        "iso3": "KHM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Saint Kitts and Nevis",
         "currency": "XCD",
         "iso2": "KN",
-        "iso3": "KNA"
+        "iso3": "KNA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Comoros",
         "currency": "KMF",
         "iso2": "KM",
-        "iso3": "COM"
+        "iso3": "COM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Sao Tome and Principe",
-        "currency": "STD",
+        "currency": "STN",
         "iso2": "ST",
-        "iso3": "STP"
+        "iso3": "STP",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Slovakia",
         "currency": "EUR",
         "iso2": "SK",
-        "iso3": "SVK"
+        "iso3": "SVK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "South Korea",
         "currency": "KRW",
         "iso2": "KR",
-        "iso3": "KOR"
+        "iso3": "KOR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Slovenia",
         "currency": "EUR",
         "iso2": "SI",
-        "iso3": "SVN"
+        "iso3": "SVN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "North Korea",
         "currency": "KPW",
         "iso2": "KP",
-        "iso3": "PRK"
+        "iso3": "PRK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Kuwait",
         "currency": "KWD",
         "iso2": "KW",
-        "iso3": "KWT"
+        "iso3": "KWT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Senegal",
         "currency": "XOF",
         "iso2": "SN",
-        "iso3": "SEN"
+        "iso3": "SEN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "San Marino",
         "currency": "EUR",
         "iso2": "SM",
-        "iso3": "SMR"
+        "iso3": "SMR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Sierra Leone",
         "currency": "SLL",
         "iso2": "SL",
-        "iso3": "SLE"
+        "iso3": "SLE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Seychelles",
         "currency": "SCR",
         "iso2": "SC",
-        "iso3": "SYC"
+        "iso3": "SYC",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Kazakhstan",
         "currency": "KZT",
         "iso2": "KZ",
-        "iso3": "KAZ"
+        "iso3": "KAZ",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Cayman Islands",
         "currency": "KYD",
         "iso2": "KY",
-        "iso3": "CYM"
+        "iso3": "CYM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Singapore",
         "currency": "SGD",
         "iso2": "SG",
-        "iso3": "SGP"
+        "iso3": "SGP",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Sweden",
         "currency": "SEK",
         "iso2": "SE",
-        "iso3": "SWE"
+        "iso3": "SWE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Sudan",
         "currency": "SDG",
         "iso2": "SD",
-        "iso3": "SDN"
+        "iso3": "SDN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Dominican Republic",
         "currency": "DOP",
         "iso2": "DO",
-        "iso3": "DOM"
+        "iso3": "DOM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Dominica",
         "currency": "XCD",
         "iso2": "DM",
-        "iso3": "DMA"
+        "iso3": "DMA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Djibouti",
         "currency": "DJF",
         "iso2": "DJ",
-        "iso3": "DJI"
+        "iso3": "DJI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Denmark",
         "currency": "DKK",
         "iso2": "DK",
-        "iso3": "DNK"
+        "iso3": "DNK",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "British Virgin Islands",
         "currency": "USD",
         "iso2": "VG",
-        "iso3": "VGB"
+        "iso3": "VGB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Germany",
         "currency": "EUR",
         "iso2": "DE",
-        "iso3": "DEU"
+        "iso3": "DEU",
+        "documentCodePersona": "steuer_id",
+        "maskPersona": "00000000000",
+        "documentCodeCompany": "steuernummer",
+        "maskCompany": "000/000/00000"
     },
     {
         "name": "Yemen",
         "currency": "YER",
         "iso2": "YE",
-        "iso3": "YEM"
+        "iso3": "YEM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Algeria",
         "currency": "DZD",
         "iso2": "DZ",
-        "iso3": "DZA"
+        "iso3": "DZA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "United States",
         "currency": "USD",
         "iso2": "US",
-        "iso3": "USA"
+        "iso3": "USA",
+        "documentCodePersona": "ssn",
+        "maskPersona": "000-00-0000",
+        "documentCodeCompany": "ein",
+        "maskCompany": "00-0000000"
     },
     {
         "name": "Uruguay",
         "currency": "UYU",
         "iso2": "UY",
-        "iso3": "URY"
+        "iso3": "URY",
+        "documentCodePersona": "ci",
+        "maskPersona": "0.000.000-0",
+        "documentCodeCompany": "rut",
+        "maskCompany": "000000000000"
     },
     {
         "name": "Mayotte",
         "currency": "EUR",
         "iso2": "YT",
-        "iso3": "MYT"
+        "iso3": "MYT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "United States Minor Outlying Islands",
         "currency": "USD",
         "iso2": "UM",
-        "iso3": "UMI"
+        "iso3": "UMI",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Lebanon",
         "currency": "LBP",
         "iso2": "LB",
-        "iso3": "LBN"
+        "iso3": "LBN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Saint Lucia",
         "currency": "XCD",
         "iso2": "LC",
-        "iso3": "LCA"
+        "iso3": "LCA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Laos",
         "currency": "LAK",
         "iso2": "LA",
-        "iso3": "LAO"
+        "iso3": "LAO",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Tuvalu",
         "currency": "AUD",
         "iso2": "TV",
-        "iso3": "TUV"
+        "iso3": "TUV",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Taiwan",
         "currency": "TWD",
         "iso2": "TW",
-        "iso3": "TWN"
+        "iso3": "TWN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Trinidad and Tobago",
         "currency": "TTD",
         "iso2": "TT",
-        "iso3": "TTO"
+        "iso3": "TTO",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Turkey",
         "currency": "TRY",
         "iso2": "TR",
-        "iso3": "TUR"
+        "iso3": "TUR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Sri Lanka",
         "currency": "LKR",
         "iso2": "LK",
-        "iso3": "LKA"
+        "iso3": "LKA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Liechtenstein",
         "currency": "CHF",
         "iso2": "LI",
-        "iso3": "LIE"
+        "iso3": "LIE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Latvia",
         "currency": "EUR",
         "iso2": "LV",
-        "iso3": "LVA"
+        "iso3": "LVA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Tonga",
         "currency": "TOP",
         "iso2": "TO",
-        "iso3": "TON"
+        "iso3": "TON",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Lithuania",
         "currency": "LTL",
         "iso2": "LT",
-        "iso3": "LTU"
+        "iso3": "LTU",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Luxembourg",
         "currency": "EUR",
         "iso2": "LU",
-        "iso3": "LUX"
+        "iso3": "LUX",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Liberia",
         "currency": "LRD",
         "iso2": "LR",
-        "iso3": "LBR"
+        "iso3": "LBR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Lesotho",
         "currency": "LSL",
         "iso2": "LS",
-        "iso3": "LSO"
+        "iso3": "LSO",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Thailand",
         "currency": "THB",
         "iso2": "TH",
-        "iso3": "THA"
+        "iso3": "THA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "French Southern Territories",
         "currency": "EUR",
         "iso2": "TF",
-        "iso3": "ATF"
+        "iso3": "ATF",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Togo",
         "currency": "XOF",
         "iso2": "TG",
-        "iso3": "TGO"
+        "iso3": "TGO",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Chad",
         "currency": "XAF",
         "iso2": "TD",
-        "iso3": "TCD"
+        "iso3": "TCD",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Turks and Caicos Islands",
         "currency": "USD",
         "iso2": "TC",
-        "iso3": "TCA"
+        "iso3": "TCA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Libya",
         "currency": "LYD",
         "iso2": "LY",
-        "iso3": "LBY"
+        "iso3": "LBY",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Vatican",
         "currency": "EUR",
         "iso2": "VA",
-        "iso3": "VAT"
+        "iso3": "VAT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Saint Vincent and the Grenadines",
         "currency": "XCD",
         "iso2": "VC",
-        "iso3": "VCT"
+        "iso3": "VCT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "United Arab Emirates",
         "currency": "AED",
         "iso2": "AE",
-        "iso3": "ARE"
+        "iso3": "ARE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Andorra",
         "currency": "EUR",
         "iso2": "AD",
-        "iso3": "AND"
+        "iso3": "AND",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Antigua and Barbuda",
         "currency": "XCD",
         "iso2": "AG",
-        "iso3": "ATG"
+        "iso3": "ATG",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Afghanistan",
         "currency": "AFN",
         "iso2": "AF",
-        "iso3": "AFG"
+        "iso3": "AFG",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Anguilla",
         "currency": "XCD",
         "iso2": "AI",
-        "iso3": "AIA"
+        "iso3": "AIA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "U.S. Virgin Islands",
         "currency": "USD",
         "iso2": "VI",
-        "iso3": "VIR"
+        "iso3": "VIR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Iceland",
         "currency": "ISK",
         "iso2": "IS",
-        "iso3": "ISL"
+        "iso3": "ISL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Iran",
         "currency": "IRR",
         "iso2": "IR",
-        "iso3": "IRN"
+        "iso3": "IRN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Armenia",
         "currency": "AMD",
         "iso2": "AM",
-        "iso3": "ARM"
+        "iso3": "ARM",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Albania",
         "currency": "ALL",
         "iso2": "AL",
-        "iso3": "ALB"
+        "iso3": "ALB",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Angola",
         "currency": "AOA",
         "iso2": "AO",
-        "iso3": "AGO"
+        "iso3": "AGO",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Antarctica",
         "currency": "",
         "iso2": "AQ",
-        "iso3": "ATA"
+        "iso3": "ATA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Argentina",
         "currency": "ARS",
         "iso2": "AR",
-        "iso3": "ARG"
+        "iso3": "ARG",
+        "documentCodePersona": "dni",
+        "maskPersona": "00.000.000",
+        "documentCodeCompany": "cuit",
+        "maskCompany": "00-00000000-0"
     },
     {
         "name": "Australia",
         "currency": "AUD",
         "iso2": "AU",
-        "iso3": "AUS"
+        "iso3": "AUS",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Austria",
         "currency": "EUR",
         "iso2": "AT",
-        "iso3": "AUT"
+        "iso3": "AUT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Aruba",
         "currency": "AWG",
         "iso2": "AW",
-        "iso3": "ABW"
+        "iso3": "ABW",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "India",
         "currency": "INR",
         "iso2": "IN",
-        "iso3": "IND"
+        "iso3": "IND",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Aland Islands",
         "currency": "EUR",
         "iso2": "AX",
-        "iso3": "ALA"
+        "iso3": "ALA",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Azerbaijan",
         "currency": "AZN",
         "iso2": "AZ",
-        "iso3": "AZE"
+        "iso3": "AZE",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Ireland",
         "currency": "EUR",
         "iso2": "IE",
-        "iso3": "IRL"
+        "iso3": "IRL",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Indonesia",
         "currency": "IDR",
         "iso2": "ID",
-        "iso3": "IDN"
+        "iso3": "IDN",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Ukraine",
         "currency": "UAH",
         "iso2": "UA",
-        "iso3": "UKR"
+        "iso3": "UKR",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Qatar",
         "currency": "QAR",
         "iso2": "QA",
-        "iso3": "QAT"
+        "iso3": "QAT",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     },
     {
         "name": "Mozambique",
         "currency": "MZN",
         "iso2": "MZ",
-        "iso3": "MOZ"
+        "iso3": "MOZ",
+        "documentCodePersona": null,
+        "maskPersona": null,
+        "documentCodeCompany": null,
+        "maskCompany": null
     }
 ]
