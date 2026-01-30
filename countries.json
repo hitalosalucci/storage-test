@@ -4,6 +4,9 @@
         "currency": "BDT",
         "iso2": "BD",
         "iso3": "BGD",
+        "phoneMask": [
+            "+880 ##-####-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -14,6 +17,9 @@
         "currency": "EUR",
         "iso2": "BE",
         "iso3": "BEL",
+        "phoneMask": [
+            "+32 ### ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -24,6 +30,9 @@
         "currency": "XOF",
         "iso2": "BF",
         "iso3": "BFA",
+        "phoneMask": [
+            "+226 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -34,6 +43,9 @@
         "currency": "BGN",
         "iso2": "BG",
         "iso3": "BGR",
+        "phoneMask": [
+            "+359 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -44,6 +56,9 @@
         "currency": "BAM",
         "iso2": "BA",
         "iso3": "BIH",
+        "phoneMask": [
+            "+387 ## ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -54,6 +69,9 @@
         "currency": "BBD",
         "iso2": "BB",
         "iso3": "BRB",
+        "phoneMask": [
+            "+1 (246) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -64,6 +82,9 @@
         "currency": "XPF",
         "iso2": "WF",
         "iso3": "WLF",
+        "phoneMask": [
+            "+681 ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -74,6 +95,9 @@
         "currency": "EUR",
         "iso2": "BL",
         "iso3": "BLM",
+        "phoneMask": [
+            "+590 ### ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -84,6 +108,9 @@
         "currency": "BMD",
         "iso2": "BM",
         "iso3": "BMU",
+        "phoneMask": [
+            "+1 (441) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -94,6 +121,9 @@
         "currency": "BND",
         "iso2": "BN",
         "iso3": "BRN",
+        "phoneMask": [
+            "+673 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -104,6 +134,9 @@
         "currency": "BOB",
         "iso2": "BO",
         "iso3": "BOL",
+        "phoneMask": [
+            "+591 # ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -114,6 +147,9 @@
         "currency": "BHD",
         "iso2": "BH",
         "iso3": "BHR",
+        "phoneMask": [
+            "+973 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -124,6 +160,9 @@
         "currency": "BIF",
         "iso2": "BI",
         "iso3": "BDI",
+        "phoneMask": [
+            "+257 ## ## ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -134,6 +173,9 @@
         "currency": "XOF",
         "iso2": "BJ",
         "iso3": "BEN",
+        "phoneMask": [
+            "+229 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -144,6 +186,9 @@
         "currency": "BTN",
         "iso2": "BT",
         "iso3": "BTN",
+        "phoneMask": [
+            "+975 # ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -154,6 +199,9 @@
         "currency": "JMD",
         "iso2": "JM",
         "iso3": "JAM",
+        "phoneMask": [
+            "+1 (876) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -164,6 +212,9 @@
         "currency": "NOK",
         "iso2": "BV",
         "iso3": "BVT",
+        "phoneMask": [
+            "+47 ########"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -174,6 +225,9 @@
         "currency": "BWP",
         "iso2": "BW",
         "iso3": "BWA",
+        "phoneMask": [
+            "+267 ## ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -184,6 +238,9 @@
         "currency": "WST",
         "iso2": "WS",
         "iso3": "WSM",
+        "phoneMask": [
+            "+685 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -194,6 +251,9 @@
         "currency": "USD",
         "iso2": "BQ",
         "iso3": "BES",
+        "phoneMask": [
+            "+599 # ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -204,6 +264,10 @@
         "currency": "BRL",
         "iso2": "BR",
         "iso3": "BRA",
+        "phoneMask": [
+            "+55 (##) #####-####",
+            "+55 (##) ####-####"
+        ],
         "documentCodePersona": "cpf",
         "maskPersona": "000.000.000-00",
         "documentCodeCompany": "cnpj",
@@ -214,6 +278,9 @@
         "currency": "BSD",
         "iso2": "BS",
         "iso3": "BHS",
+        "phoneMask": [
+            "+1 (242) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -224,6 +291,9 @@
         "currency": "GBP",
         "iso2": "JE",
         "iso3": "JEY",
+        "phoneMask": [
+            "+44 1534 ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -234,6 +304,9 @@
         "currency": "BYN",
         "iso2": "BY",
         "iso3": "BLR",
+        "phoneMask": [
+            "+375 (##) ###-##-##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -244,6 +317,9 @@
         "currency": "BZD",
         "iso2": "BZ",
         "iso3": "BLZ",
+        "phoneMask": [
+            "+501 ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -254,6 +330,9 @@
         "currency": "RUB",
         "iso2": "RU",
         "iso3": "RUS",
+        "phoneMask": [
+            "+7 (###) ###-##-##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -264,6 +343,9 @@
         "currency": "RWF",
         "iso2": "RW",
         "iso3": "RWA",
+        "phoneMask": [
+            "+250 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -274,6 +356,9 @@
         "currency": "RSD",
         "iso2": "RS",
         "iso3": "SRB",
+        "phoneMask": [
+            "+381 ## #######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -284,6 +369,9 @@
         "currency": "USD",
         "iso2": "TL",
         "iso3": "TLS",
+        "phoneMask": [
+            "+670 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -294,6 +382,9 @@
         "currency": "EUR",
         "iso2": "RE",
         "iso3": "REU",
+        "phoneMask": [
+            "+262 ### ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -304,6 +395,9 @@
         "currency": "TMT",
         "iso2": "TM",
         "iso3": "TKM",
+        "phoneMask": [
+            "+993 # ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -314,6 +408,9 @@
         "currency": "TJS",
         "iso2": "TJ",
         "iso3": "TJK",
+        "phoneMask": [
+            "+992 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -324,6 +421,9 @@
         "currency": "RON",
         "iso2": "RO",
         "iso3": "ROU",
+        "phoneMask": [
+            "+40 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -334,6 +434,9 @@
         "currency": "NZD",
         "iso2": "TK",
         "iso3": "TKL",
+        "phoneMask": [
+            "+690 ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -344,6 +447,9 @@
         "currency": "XOF",
         "iso2": "GW",
         "iso3": "GNB",
+        "phoneMask": [
+            "+245 # ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -354,6 +460,9 @@
         "currency": "USD",
         "iso2": "GU",
         "iso3": "GUM",
+        "phoneMask": [
+            "+1 (671) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -364,6 +473,9 @@
         "currency": "GTQ",
         "iso2": "GT",
         "iso3": "GTM",
+        "phoneMask": [
+            "+502 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -374,6 +486,9 @@
         "currency": "GBP",
         "iso2": "GS",
         "iso3": "SGS",
+        "phoneMask": [
+            "+500 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -384,6 +499,9 @@
         "currency": "EUR",
         "iso2": "GR",
         "iso3": "GRC",
+        "phoneMask": [
+            "+30 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -394,6 +512,9 @@
         "currency": "XAF",
         "iso2": "GQ",
         "iso3": "GNQ",
+        "phoneMask": [
+            "+240 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -404,6 +525,9 @@
         "currency": "EUR",
         "iso2": "GP",
         "iso3": "GLP",
+        "phoneMask": [
+            "+590 ### ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -414,6 +538,9 @@
         "currency": "JPY",
         "iso2": "JP",
         "iso3": "JPN",
+        "phoneMask": [
+            "+81 ## #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -424,6 +551,9 @@
         "currency": "GYD",
         "iso2": "GY",
         "iso3": "GUY",
+        "phoneMask": [
+            "+592 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -434,6 +564,9 @@
         "currency": "GBP",
         "iso2": "GG",
         "iso3": "GGY",
+        "phoneMask": [
+            "+44 1481 ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -444,6 +577,9 @@
         "currency": "GEL",
         "iso2": "GE",
         "iso3": "GEO",
+        "phoneMask": [
+            "+995 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -454,6 +590,9 @@
         "currency": "XCD",
         "iso2": "GD",
         "iso3": "GRD",
+        "phoneMask": [
+            "+1 (473) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -464,6 +603,9 @@
         "currency": "GBP",
         "iso2": "GB",
         "iso3": "GBR",
+        "phoneMask": [
+            "+44 #### ######"
+        ],
         "documentCodePersona": "nino",
         "maskPersona": "AA000000A",
         "documentCodeCompany": "utr",
@@ -474,6 +616,9 @@
         "currency": "XAF",
         "iso2": "GA",
         "iso3": "GAB",
+        "phoneMask": [
+            "+241 # ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -484,6 +629,9 @@
         "currency": "USD",
         "iso2": "SV",
         "iso3": "SLV",
+        "phoneMask": [
+            "+503 ####-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -494,6 +642,9 @@
         "currency": "GNF",
         "iso2": "GN",
         "iso3": "GIN",
+        "phoneMask": [
+            "+224 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -504,6 +655,9 @@
         "currency": "GMD",
         "iso2": "GM",
         "iso3": "GMB",
+        "phoneMask": [
+            "+220 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -514,6 +668,9 @@
         "currency": "DKK",
         "iso2": "GL",
         "iso3": "GRL",
+        "phoneMask": [
+            "+299 ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -524,6 +681,9 @@
         "currency": "GIP",
         "iso2": "GI",
         "iso3": "GIB",
+        "phoneMask": [
+            "+350 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -534,6 +694,9 @@
         "currency": "GHS",
         "iso2": "GH",
         "iso3": "GHA",
+        "phoneMask": [
+            "+233 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -544,6 +707,9 @@
         "currency": "OMR",
         "iso2": "OM",
         "iso3": "OMN",
+        "phoneMask": [
+            "+968 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -554,6 +720,9 @@
         "currency": "TND",
         "iso2": "TN",
         "iso3": "TUN",
+        "phoneMask": [
+            "+216 ## ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -564,6 +733,9 @@
         "currency": "JOD",
         "iso2": "JO",
         "iso3": "JOR",
+        "phoneMask": [
+            "+962 # #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -574,6 +746,9 @@
         "currency": "HRK",
         "iso2": "HR",
         "iso3": "HRV",
+        "phoneMask": [
+            "+385 ## #### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -584,6 +759,9 @@
         "currency": "HTG",
         "iso2": "HT",
         "iso3": "HTI",
+        "phoneMask": [
+            "+509 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -594,6 +772,9 @@
         "currency": "HUF",
         "iso2": "HU",
         "iso3": "HUN",
+        "phoneMask": [
+            "+36 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -604,6 +785,9 @@
         "currency": "HKD",
         "iso2": "HK",
         "iso3": "HKG",
+        "phoneMask": [
+            "+852 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -614,6 +798,9 @@
         "currency": "HNL",
         "iso2": "HN",
         "iso3": "HND",
+        "phoneMask": [
+            "+504 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -624,6 +811,9 @@
         "currency": "AUD",
         "iso2": "HM",
         "iso3": "HMD",
+        "phoneMask": [
+            "+672 # #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -634,6 +824,9 @@
         "currency": "VES",
         "iso2": "VE",
         "iso3": "VEN",
+        "phoneMask": [
+            "+58 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -644,6 +837,9 @@
         "currency": "EUR",
         "iso2": "VA",
         "iso3": "VAT",
+        "phoneMask": [
+            "+39 06 698 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -654,6 +850,9 @@
         "currency": "USD",
         "iso2": "PR",
         "iso3": "PRI",
+        "phoneMask": [
+            "+1 (###) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -664,6 +863,9 @@
         "currency": "ILS",
         "iso2": "PS",
         "iso3": "PSE",
+        "phoneMask": [
+            "+970 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -674,6 +876,9 @@
         "currency": "USD",
         "iso2": "PW",
         "iso3": "PLW",
+        "phoneMask": [
+            "+680 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -684,6 +889,9 @@
         "currency": "EUR",
         "iso2": "PT",
         "iso3": "PRT",
+        "phoneMask": [
+            "+351 ### ### ###"
+        ],
         "documentCodePersona": "nif",
         "maskPersona": "000000000",
         "documentCodeCompany": "nipc",
@@ -694,6 +902,9 @@
         "currency": "NOK",
         "iso2": "SJ",
         "iso3": "SJM",
+        "phoneMask": [
+            "+47 ########"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -704,6 +915,9 @@
         "currency": "PYG",
         "iso2": "PY",
         "iso3": "PRY",
+        "phoneMask": [
+            "+595 ### ### ###"
+        ],
         "documentCodePersona": "ci",
         "maskPersona": "0000000",
         "documentCodeCompany": "ruc",
@@ -714,6 +928,9 @@
         "currency": "IQD",
         "iso2": "IQ",
         "iso3": "IRQ",
+        "phoneMask": [
+            "+964 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -724,6 +941,9 @@
         "currency": "PAB",
         "iso2": "PA",
         "iso3": "PAN",
+        "phoneMask": [
+            "+507 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -734,6 +954,9 @@
         "currency": "XPF",
         "iso2": "PF",
         "iso3": "PYF",
+        "phoneMask": [
+            "+689 ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -744,6 +967,9 @@
         "currency": "PGK",
         "iso2": "PG",
         "iso3": "PNG",
+        "phoneMask": [
+            "+675 ### #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -754,6 +980,9 @@
         "currency": "PEN",
         "iso2": "PE",
         "iso3": "PER",
+        "phoneMask": [
+            "+51 ### ### ###"
+        ],
         "documentCodePersona": "dni",
         "maskPersona": "00000000",
         "documentCodeCompany": "ruc",
@@ -764,6 +993,9 @@
         "currency": "PKR",
         "iso2": "PK",
         "iso3": "PAK",
+        "phoneMask": [
+            "+92 ### #######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -774,6 +1006,9 @@
         "currency": "PHP",
         "iso2": "PH",
         "iso3": "PHL",
+        "phoneMask": [
+            "+63 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -784,6 +1019,9 @@
         "currency": "NZD",
         "iso2": "PN",
         "iso3": "PCN",
+        "phoneMask": [
+            "+64 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -794,6 +1032,9 @@
         "currency": "PLN",
         "iso2": "PL",
         "iso3": "POL",
+        "phoneMask": [
+            "+48 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -804,6 +1045,9 @@
         "currency": "EUR",
         "iso2": "PM",
         "iso3": "SPM",
+        "phoneMask": [
+            "+508 ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -814,6 +1058,9 @@
         "currency": "ZMW",
         "iso2": "ZM",
         "iso3": "ZMB",
+        "phoneMask": [
+            "+260 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -824,6 +1071,9 @@
         "currency": "MAD",
         "iso2": "EH",
         "iso3": "ESH",
+        "phoneMask": [
+            "+212 # #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -834,6 +1084,9 @@
         "currency": "EUR",
         "iso2": "EE",
         "iso3": "EST",
+        "phoneMask": [
+            "+372 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -844,6 +1097,9 @@
         "currency": "EGP",
         "iso2": "EG",
         "iso3": "EGY",
+        "phoneMask": [
+            "+20 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -854,6 +1110,9 @@
         "currency": "AUD",
         "iso2": "CC",
         "iso3": "CCK",
+        "phoneMask": [
+            "+61 8 9162 ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -864,6 +1123,9 @@
         "currency": "ZAR",
         "iso2": "ZA",
         "iso3": "ZAF",
+        "phoneMask": [
+            "+27 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -874,6 +1136,9 @@
         "currency": "USD",
         "iso2": "EC",
         "iso3": "ECU",
+        "phoneMask": [
+            "+593 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -884,6 +1149,9 @@
         "currency": "EUR",
         "iso2": "IT",
         "iso3": "ITA",
+        "phoneMask": [
+            "+39 ### ### ####"
+        ],
         "documentCodePersona": "codice_fiscale",
         "maskPersona": "AAAAAA00A00A000A",
         "documentCodeCompany": "partita_iva",
@@ -894,6 +1162,9 @@
         "currency": "VND",
         "iso2": "VN",
         "iso3": "VNM",
+        "phoneMask": [
+            "+84 ## #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -904,6 +1175,9 @@
         "currency": "SBD",
         "iso2": "SB",
         "iso3": "SLB",
+        "phoneMask": [
+            "+677 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -914,6 +1188,9 @@
         "currency": "ETB",
         "iso2": "ET",
         "iso3": "ETH",
+        "phoneMask": [
+            "+251 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -924,6 +1201,9 @@
         "currency": "SOS",
         "iso2": "SO",
         "iso3": "SOM",
+        "phoneMask": [
+            "+252 ## #######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -934,6 +1214,9 @@
         "currency": "ZWL",
         "iso2": "ZW",
         "iso3": "ZWE",
+        "phoneMask": [
+            "+263 # #######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -944,6 +1227,9 @@
         "currency": "SAR",
         "iso2": "SA",
         "iso3": "SAU",
+        "phoneMask": [
+            "+966 # ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -954,6 +1240,9 @@
         "currency": "EUR",
         "iso2": "ES",
         "iso3": "ESP",
+        "phoneMask": [
+            "+34 ### ### ###"
+        ],
         "documentCodePersona": "dni",
         "maskPersona": "00000000A",
         "documentCodeCompany": "cif",
@@ -964,6 +1253,9 @@
         "currency": "ERN",
         "iso2": "ER",
         "iso3": "ERI",
+        "phoneMask": [
+            "+291 # ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -974,6 +1266,9 @@
         "currency": "EUR",
         "iso2": "ME",
         "iso3": "MNE",
+        "phoneMask": [
+            "+382 ## ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -984,6 +1279,9 @@
         "currency": "MDL",
         "iso2": "MD",
         "iso3": "MDA",
+        "phoneMask": [
+            "+373 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -994,6 +1292,9 @@
         "currency": "MGA",
         "iso2": "MG",
         "iso3": "MDG",
+        "phoneMask": [
+            "+261 ## ## ### ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1004,6 +1305,9 @@
         "currency": "EUR",
         "iso2": "MF",
         "iso3": "MAF",
+        "phoneMask": [
+            "+590 ### ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1014,6 +1318,9 @@
         "currency": "MAD",
         "iso2": "MA",
         "iso3": "MAR",
+        "phoneMask": [
+            "+212 # #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1024,6 +1331,9 @@
         "currency": "EUR",
         "iso2": "MC",
         "iso3": "MCO",
+        "phoneMask": [
+            "+377 # ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1034,6 +1344,9 @@
         "currency": "UZS",
         "iso2": "UZ",
         "iso3": "UZB",
+        "phoneMask": [
+            "+998 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1044,6 +1357,9 @@
         "currency": "MMK",
         "iso2": "MM",
         "iso3": "MMR",
+        "phoneMask": [
+            "+95 # #######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1054,6 +1370,9 @@
         "currency": "XOF",
         "iso2": "ML",
         "iso3": "MLI",
+        "phoneMask": [
+            "+223 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1064,6 +1383,9 @@
         "currency": "MOP",
         "iso2": "MO",
         "iso3": "MAC",
+        "phoneMask": [
+            "+853 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1074,6 +1396,9 @@
         "currency": "MNT",
         "iso2": "MN",
         "iso3": "MNG",
+        "phoneMask": [
+            "+976 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1084,6 +1409,9 @@
         "currency": "USD",
         "iso2": "MH",
         "iso3": "MHL",
+        "phoneMask": [
+            "+692 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1094,6 +1422,9 @@
         "currency": "MKD",
         "iso2": "MK",
         "iso3": "MKD",
+        "phoneMask": [
+            "+389 # ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1104,6 +1435,9 @@
         "currency": "MUR",
         "iso2": "MU",
         "iso3": "MUS",
+        "phoneMask": [
+            "+230 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1114,6 +1448,9 @@
         "currency": "EUR",
         "iso2": "MT",
         "iso3": "MLT",
+        "phoneMask": [
+            "+356 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1124,6 +1461,9 @@
         "currency": "MWK",
         "iso2": "MW",
         "iso3": "MWI",
+        "phoneMask": [
+            "+265 # #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1134,6 +1474,9 @@
         "currency": "MVR",
         "iso2": "MV",
         "iso3": "MDV",
+        "phoneMask": [
+            "+960 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1144,6 +1487,9 @@
         "currency": "EUR",
         "iso2": "MQ",
         "iso3": "MTQ",
+        "phoneMask": [
+            "+596 ### ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1154,6 +1500,9 @@
         "currency": "USD",
         "iso2": "MP",
         "iso3": "MNP",
+        "phoneMask": [
+            "+1 (670) ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1164,6 +1513,9 @@
         "currency": "XCD",
         "iso2": "MS",
         "iso3": "MSR",
+        "phoneMask": [
+            "+1 (664) ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1174,6 +1526,9 @@
         "currency": "MRO",
         "iso2": "MR",
         "iso3": "MRT",
+        "phoneMask": [
+            "+222 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1184,6 +1539,9 @@
         "currency": "GBP",
         "iso2": "IM",
         "iso3": "IMN",
+        "phoneMask": [
+            "+44 1624 ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1194,6 +1552,9 @@
         "currency": "UGX",
         "iso2": "UG",
         "iso3": "UGA",
+        "phoneMask": [
+            "+256 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1204,6 +1565,9 @@
         "currency": "TZS",
         "iso2": "TZ",
         "iso3": "TZA",
+        "phoneMask": [
+            "+255 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1214,6 +1578,9 @@
         "currency": "MYR",
         "iso2": "MY",
         "iso3": "MYS",
+        "phoneMask": [
+            "+60 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1224,6 +1591,9 @@
         "currency": "MXN",
         "iso2": "MX",
         "iso3": "MEX",
+        "phoneMask": [
+            "+52 ## #### ####"
+        ],
         "documentCodePersona": "curp",
         "maskPersona": "AAAA000000AAAAAA00",
         "documentCodeCompany": "rfc",
@@ -1234,6 +1604,9 @@
         "currency": "ILS",
         "iso2": "IL",
         "iso3": "ISR",
+        "phoneMask": [
+            "+972 # ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1244,6 +1617,9 @@
         "currency": "EUR",
         "iso2": "FR",
         "iso3": "FRA",
+        "phoneMask": [
+            "+33 # ## ## ## ##"
+        ],
         "documentCodePersona": "insee",
         "maskPersona": "0 00 00 00 000 000",
         "documentCodeCompany": "siren",
@@ -1254,6 +1630,9 @@
         "currency": "USD",
         "iso2": "IO",
         "iso3": "IOT",
+        "phoneMask": [
+            "+246 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1264,6 +1643,9 @@
         "currency": "SHP",
         "iso2": "SH",
         "iso3": "SHN",
+        "phoneMask": [
+            "+290 ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1274,6 +1656,9 @@
         "currency": "EUR",
         "iso2": "FI",
         "iso3": "FIN",
+        "phoneMask": [
+            "+358 ## ### ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1284,6 +1669,9 @@
         "currency": "FJD",
         "iso2": "FJ",
         "iso3": "FJI",
+        "phoneMask": [
+            "+679 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1294,6 +1682,9 @@
         "currency": "FKP",
         "iso2": "FK",
         "iso3": "FLK",
+        "phoneMask": [
+            "+500 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1304,6 +1695,9 @@
         "currency": "USD",
         "iso2": "FM",
         "iso3": "FSM",
+        "phoneMask": [
+            "+691 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1314,6 +1708,9 @@
         "currency": "DKK",
         "iso2": "FO",
         "iso3": "FRO",
+        "phoneMask": [
+            "+298 ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1324,6 +1721,9 @@
         "currency": "NIO",
         "iso2": "NI",
         "iso3": "NIC",
+        "phoneMask": [
+            "+505 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1334,6 +1734,9 @@
         "currency": "EUR",
         "iso2": "NL",
         "iso3": "NLD",
+        "phoneMask": [
+            "+31 # ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1344,6 +1747,9 @@
         "currency": "NOK",
         "iso2": "NO",
         "iso3": "NOR",
+        "phoneMask": [
+            "+47 ### ## ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1354,6 +1760,9 @@
         "currency": "NAD",
         "iso2": "NA",
         "iso3": "NAM",
+        "phoneMask": [
+            "+264 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1364,6 +1773,9 @@
         "currency": "VUV",
         "iso2": "VU",
         "iso3": "VUT",
+        "phoneMask": [
+            "+678 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1374,6 +1786,9 @@
         "currency": "XPF",
         "iso2": "NC",
         "iso3": "NCL",
+        "phoneMask": [
+            "+687 ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1384,6 +1799,9 @@
         "currency": "XOF",
         "iso2": "NE",
         "iso3": "NER",
+        "phoneMask": [
+            "+227 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1394,6 +1812,9 @@
         "currency": "AUD",
         "iso2": "NF",
         "iso3": "NFK",
+        "phoneMask": [
+            "+672 3 ## ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1404,6 +1825,9 @@
         "currency": "NGN",
         "iso2": "NG",
         "iso3": "NGA",
+        "phoneMask": [
+            "+234 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1414,6 +1838,9 @@
         "currency": "NZD",
         "iso2": "NZ",
         "iso3": "NZL",
+        "phoneMask": [
+            "+64 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1424,6 +1851,9 @@
         "currency": "NPR",
         "iso2": "NP",
         "iso3": "NPL",
+        "phoneMask": [
+            "+977 ##-#######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1434,6 +1864,9 @@
         "currency": "AUD",
         "iso2": "NR",
         "iso3": "NRU",
+        "phoneMask": [
+            "+674 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1444,6 +1877,9 @@
         "currency": "NZD",
         "iso2": "NU",
         "iso3": "NIU",
+        "phoneMask": [
+            "+683 ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1454,6 +1890,9 @@
         "currency": "NZD",
         "iso2": "CK",
         "iso3": "COK",
+        "phoneMask": [
+            "+682 ## ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1464,6 +1903,9 @@
         "currency": "EUR",
         "iso2": "XK",
         "iso3": "XKX",
+        "phoneMask": [
+            "+383 ## ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1474,6 +1916,9 @@
         "currency": "XOF",
         "iso2": "CI",
         "iso3": "CIV",
+        "phoneMask": [
+            "+225 ## ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1484,6 +1929,9 @@
         "currency": "CHF",
         "iso2": "CH",
         "iso3": "CHE",
+        "phoneMask": [
+            "+41 ## ### ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1494,6 +1942,9 @@
         "currency": "COP",
         "iso2": "CO",
         "iso3": "COL",
+        "phoneMask": [
+            "+57 ### ### ####"
+        ],
         "documentCodePersona": "cc",
         "maskPersona": "0000000000",
         "documentCodeCompany": "nit",
@@ -1504,6 +1955,9 @@
         "currency": "CNY",
         "iso2": "CN",
         "iso3": "CHN",
+        "phoneMask": [
+            "+86 ### #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1514,6 +1968,9 @@
         "currency": "XAF",
         "iso2": "CM",
         "iso3": "CMR",
+        "phoneMask": [
+            "+237 # ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1524,6 +1981,9 @@
         "currency": "CLP",
         "iso2": "CL",
         "iso3": "CHL",
+        "phoneMask": [
+            "+56 # #### ####"
+        ],
         "documentCodePersona": "rut",
         "maskPersona": "00.000.000-0",
         "documentCodeCompany": "rut",
@@ -1534,6 +1994,9 @@
         "currency": "CAD",
         "iso2": "CA",
         "iso3": "CAN",
+        "phoneMask": [
+            "+1 (###) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1544,6 +2007,9 @@
         "currency": "XAF",
         "iso2": "CG",
         "iso3": "COG",
+        "phoneMask": [
+            "+242 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1554,6 +2020,9 @@
         "currency": "XAF",
         "iso2": "CF",
         "iso3": "CAF",
+        "phoneMask": [
+            "+236 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1564,6 +2033,9 @@
         "currency": "CDF",
         "iso2": "CD",
         "iso3": "COD",
+        "phoneMask": [
+            "+243 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1574,6 +2046,9 @@
         "currency": "CZK",
         "iso2": "CZ",
         "iso3": "CZE",
+        "phoneMask": [
+            "+420 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1584,6 +2059,9 @@
         "currency": "EUR",
         "iso2": "CY",
         "iso3": "CYP",
+        "phoneMask": [
+            "+357 ## ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1594,6 +2072,9 @@
         "currency": "AUD",
         "iso2": "CX",
         "iso3": "CXR",
+        "phoneMask": [
+            "+61 8 9164 ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1604,6 +2085,9 @@
         "currency": "CRC",
         "iso2": "CR",
         "iso3": "CRI",
+        "phoneMask": [
+            "+506 ####-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1614,6 +2098,9 @@
         "currency": "ANG",
         "iso2": "CW",
         "iso3": "CUW",
+        "phoneMask": [
+            "+599 9 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1624,6 +2111,9 @@
         "currency": "CVE",
         "iso2": "CV",
         "iso3": "CPV",
+        "phoneMask": [
+            "+238 ### ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1634,6 +2124,9 @@
         "currency": "CUP",
         "iso2": "CU",
         "iso3": "CUB",
+        "phoneMask": [
+            "+53 # ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1644,6 +2137,9 @@
         "currency": "SZL",
         "iso2": "SZ",
         "iso3": "SWZ",
+        "phoneMask": [
+            "+268 ## ## ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1654,6 +2150,9 @@
         "currency": "SYP",
         "iso2": "SY",
         "iso3": "SYR",
+        "phoneMask": [
+            "+963 ## #### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1664,6 +2163,9 @@
         "currency": "ANG",
         "iso2": "SX",
         "iso3": "SXM",
+        "phoneMask": [
+            "+1 (721) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1674,6 +2176,9 @@
         "currency": "KGS",
         "iso2": "KG",
         "iso3": "KGZ",
+        "phoneMask": [
+            "+996 (###) ###-###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1684,6 +2189,9 @@
         "currency": "KES",
         "iso2": "KE",
         "iso3": "KEN",
+        "phoneMask": [
+            "+254 ### ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1694,6 +2202,9 @@
         "currency": "SSP",
         "iso2": "SS",
         "iso3": "SSD",
+        "phoneMask": [
+            "+211 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1704,6 +2215,9 @@
         "currency": "SRD",
         "iso2": "SR",
         "iso3": "SUR",
+        "phoneMask": [
+            "+597 ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1714,6 +2228,9 @@
         "currency": "AUD",
         "iso2": "KI",
         "iso3": "KIR",
+        "phoneMask": [
+            "+686 ########"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1724,6 +2241,9 @@
         "currency": "KHR",
         "iso2": "KH",
         "iso3": "KHM",
+        "phoneMask": [
+            "+855 ## ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1734,6 +2254,9 @@
         "currency": "XCD",
         "iso2": "KN",
         "iso3": "KNA",
+        "phoneMask": [
+            "+1 (869) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1744,6 +2267,9 @@
         "currency": "KMF",
         "iso2": "KM",
         "iso3": "COM",
+        "phoneMask": [
+            "+269 ## #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1754,6 +2280,9 @@
         "currency": "STN",
         "iso2": "ST",
         "iso3": "STP",
+        "phoneMask": [
+            "+239 ## #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1764,6 +2293,9 @@
         "currency": "EUR",
         "iso2": "SK",
         "iso3": "SVK",
+        "phoneMask": [
+            "+421 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1774,6 +2306,9 @@
         "currency": "KRW",
         "iso2": "KR",
         "iso3": "KOR",
+        "phoneMask": [
+            "+82 ## #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1784,6 +2319,9 @@
         "currency": "EUR",
         "iso2": "SI",
         "iso3": "SVN",
+        "phoneMask": [
+            "+386 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1794,6 +2332,9 @@
         "currency": "KPW",
         "iso2": "KP",
         "iso3": "PRK",
+        "phoneMask": [
+            "+850 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1804,6 +2345,9 @@
         "currency": "KWD",
         "iso2": "KW",
         "iso3": "KWT",
+        "phoneMask": [
+            "+965 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1814,6 +2358,9 @@
         "currency": "XOF",
         "iso2": "SN",
         "iso3": "SEN",
+        "phoneMask": [
+            "+221 ## ### ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1824,6 +2371,9 @@
         "currency": "EUR",
         "iso2": "SM",
         "iso3": "SMR",
+        "phoneMask": [
+            "+378 ###-######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1834,6 +2384,9 @@
         "currency": "SLL",
         "iso2": "SL",
         "iso3": "SLE",
+        "phoneMask": [
+            "+232 ## ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1844,6 +2397,9 @@
         "currency": "SCR",
         "iso2": "SC",
         "iso3": "SYC",
+        "phoneMask": [
+            "+248 # ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1854,6 +2410,9 @@
         "currency": "KZT",
         "iso2": "KZ",
         "iso3": "KAZ",
+        "phoneMask": [
+            "+7 (###) ###-##-##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1864,6 +2423,9 @@
         "currency": "KYD",
         "iso2": "KY",
         "iso3": "CYM",
+        "phoneMask": [
+            "+1 (345) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1874,6 +2436,9 @@
         "currency": "SGD",
         "iso2": "SG",
         "iso3": "SGP",
+        "phoneMask": [
+            "+65 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1884,6 +2449,9 @@
         "currency": "SEK",
         "iso2": "SE",
         "iso3": "SWE",
+        "phoneMask": [
+            "+46 ## ### ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1894,6 +2462,9 @@
         "currency": "SDG",
         "iso2": "SD",
         "iso3": "SDN",
+        "phoneMask": [
+            "+249 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1904,6 +2475,9 @@
         "currency": "DOP",
         "iso2": "DO",
         "iso3": "DOM",
+        "phoneMask": [
+            "+1 (###) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1914,6 +2488,9 @@
         "currency": "XCD",
         "iso2": "DM",
         "iso3": "DMA",
+        "phoneMask": [
+            "+1 (767) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1924,6 +2501,9 @@
         "currency": "DJF",
         "iso2": "DJ",
         "iso3": "DJI",
+        "phoneMask": [
+            "+253 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1934,6 +2514,9 @@
         "currency": "DKK",
         "iso2": "DK",
         "iso3": "DNK",
+        "phoneMask": [
+            "+45 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1944,6 +2527,9 @@
         "currency": "USD",
         "iso2": "VG",
         "iso3": "VGB",
+        "phoneMask": [
+            "+1 (284) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1954,6 +2540,9 @@
         "currency": "EUR",
         "iso2": "DE",
         "iso3": "DEU",
+        "phoneMask": [
+            "+49 ### #######"
+        ],
         "documentCodePersona": "steuer_id",
         "maskPersona": "00000000000",
         "documentCodeCompany": "steuernummer",
@@ -1964,6 +2553,9 @@
         "currency": "YER",
         "iso2": "YE",
         "iso3": "YEM",
+        "phoneMask": [
+            "+967 # ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1974,6 +2566,9 @@
         "currency": "DZD",
         "iso2": "DZ",
         "iso3": "DZA",
+        "phoneMask": [
+            "+213 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -1984,6 +2579,9 @@
         "currency": "USD",
         "iso2": "US",
         "iso3": "USA",
+        "phoneMask": [
+            "+1 (###) ###-####"
+        ],
         "documentCodePersona": "ssn",
         "maskPersona": "000-00-0000",
         "documentCodeCompany": "ein",
@@ -1994,6 +2592,9 @@
         "currency": "UYU",
         "iso2": "UY",
         "iso3": "URY",
+        "phoneMask": [
+            "+598 # ### ####"
+        ],
         "documentCodePersona": "ci",
         "maskPersona": "0.000.000-0",
         "documentCodeCompany": "rut",
@@ -2004,6 +2605,9 @@
         "currency": "EUR",
         "iso2": "YT",
         "iso3": "MYT",
+        "phoneMask": [
+            "+262 ### ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2014,6 +2618,9 @@
         "currency": "USD",
         "iso2": "UM",
         "iso3": "UMI",
+        "phoneMask": [
+            "+1 (###) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2024,6 +2631,9 @@
         "currency": "LBP",
         "iso2": "LB",
         "iso3": "LBN",
+        "phoneMask": [
+            "+961 # ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2034,6 +2644,9 @@
         "currency": "XCD",
         "iso2": "LC",
         "iso3": "LCA",
+        "phoneMask": [
+            "+1 (758) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2044,6 +2657,9 @@
         "currency": "LAK",
         "iso2": "LA",
         "iso3": "LAO",
+        "phoneMask": [
+            "+856 ## ## #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2054,6 +2670,9 @@
         "currency": "AUD",
         "iso2": "TV",
         "iso3": "TUV",
+        "phoneMask": [
+            "+688 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2064,6 +2683,9 @@
         "currency": "TWD",
         "iso2": "TW",
         "iso3": "TWN",
+        "phoneMask": [
+            "+886 # #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2074,6 +2696,9 @@
         "currency": "TTD",
         "iso2": "TT",
         "iso3": "TTO",
+        "phoneMask": [
+            "+1 (868) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2084,6 +2709,9 @@
         "currency": "TRY",
         "iso2": "TR",
         "iso3": "TUR",
+        "phoneMask": [
+            "+90 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2094,6 +2722,9 @@
         "currency": "LKR",
         "iso2": "LK",
         "iso3": "LKA",
+        "phoneMask": [
+            "+94 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2104,6 +2735,9 @@
         "currency": "CHF",
         "iso2": "LI",
         "iso3": "LIE",
+        "phoneMask": [
+            "+423 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2114,6 +2748,9 @@
         "currency": "EUR",
         "iso2": "LV",
         "iso3": "LVA",
+        "phoneMask": [
+            "+371 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2124,6 +2761,9 @@
         "currency": "TOP",
         "iso2": "TO",
         "iso3": "TON",
+        "phoneMask": [
+            "+676 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2134,6 +2774,9 @@
         "currency": "LTL",
         "iso2": "LT",
         "iso3": "LTU",
+        "phoneMask": [
+            "+370 ### #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2144,6 +2787,9 @@
         "currency": "EUR",
         "iso2": "LU",
         "iso3": "LUX",
+        "phoneMask": [
+            "+352 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2154,6 +2800,9 @@
         "currency": "LRD",
         "iso2": "LR",
         "iso3": "LBR",
+        "phoneMask": [
+            "+231 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2164,6 +2813,9 @@
         "currency": "LSL",
         "iso2": "LS",
         "iso3": "LSO",
+        "phoneMask": [
+            "+266 # ## ## ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2174,6 +2826,9 @@
         "currency": "THB",
         "iso2": "TH",
         "iso3": "THA",
+        "phoneMask": [
+            "+66 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2184,6 +2839,9 @@
         "currency": "EUR",
         "iso2": "TF",
         "iso3": "ATF",
+        "phoneMask": [
+            "+262 ### ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2194,6 +2852,9 @@
         "currency": "XOF",
         "iso2": "TG",
         "iso3": "TGO",
+        "phoneMask": [
+            "+228 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2204,6 +2865,9 @@
         "currency": "XAF",
         "iso2": "TD",
         "iso3": "TCD",
+        "phoneMask": [
+            "+235 ## ## ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2214,6 +2878,9 @@
         "currency": "USD",
         "iso2": "TC",
         "iso3": "TCA",
+        "phoneMask": [
+            "+1 (649) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2224,6 +2891,9 @@
         "currency": "LYD",
         "iso2": "LY",
         "iso3": "LBY",
+        "phoneMask": [
+            "+218 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2234,6 +2904,9 @@
         "currency": "EUR",
         "iso2": "VA",
         "iso3": "VAT",
+        "phoneMask": [
+            "+39 06 698 #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2244,6 +2917,9 @@
         "currency": "XCD",
         "iso2": "VC",
         "iso3": "VCT",
+        "phoneMask": [
+            "+1 (784) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2254,6 +2930,9 @@
         "currency": "AED",
         "iso2": "AE",
         "iso3": "ARE",
+        "phoneMask": [
+            "+971 # ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2264,6 +2943,9 @@
         "currency": "EUR",
         "iso2": "AD",
         "iso3": "AND",
+        "phoneMask": [
+            "+376 ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2274,6 +2956,9 @@
         "currency": "XCD",
         "iso2": "AG",
         "iso3": "ATG",
+        "phoneMask": [
+            "+1 (268) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2284,6 +2969,9 @@
         "currency": "AFN",
         "iso2": "AF",
         "iso3": "AFG",
+        "phoneMask": [
+            "+93 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2294,6 +2982,9 @@
         "currency": "XCD",
         "iso2": "AI",
         "iso3": "AIA",
+        "phoneMask": [
+            "+1 (264) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2304,6 +2995,9 @@
         "currency": "USD",
         "iso2": "VI",
         "iso3": "VIR",
+        "phoneMask": [
+            "+1 (340) ###-####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2314,6 +3008,9 @@
         "currency": "ISK",
         "iso2": "IS",
         "iso3": "ISL",
+        "phoneMask": [
+            "+354 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2324,6 +3021,9 @@
         "currency": "IRR",
         "iso2": "IR",
         "iso3": "IRN",
+        "phoneMask": [
+            "+98 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2334,6 +3034,9 @@
         "currency": "AMD",
         "iso2": "AM",
         "iso3": "ARM",
+        "phoneMask": [
+            "+374 ## ######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2344,6 +3047,9 @@
         "currency": "ALL",
         "iso2": "AL",
         "iso3": "ALB",
+        "phoneMask": [
+            "+355 # ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2354,6 +3060,9 @@
         "currency": "AOA",
         "iso2": "AO",
         "iso3": "AGO",
+        "phoneMask": [
+            "+244 ### ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2364,6 +3073,9 @@
         "currency": "",
         "iso2": "AQ",
         "iso3": "ATA",
+        "phoneMask": [
+            "+672 # #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2374,6 +3086,9 @@
         "currency": "ARS",
         "iso2": "AR",
         "iso3": "ARG",
+        "phoneMask": [
+            "+54 # ## #### ####"
+        ],
         "documentCodePersona": "dni",
         "maskPersona": "00.000.000",
         "documentCodeCompany": "cuit",
@@ -2384,6 +3099,9 @@
         "currency": "AUD",
         "iso2": "AU",
         "iso3": "AUS",
+        "phoneMask": [
+            "+61 # #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2394,6 +3112,9 @@
         "currency": "EUR",
         "iso2": "AT",
         "iso3": "AUT",
+        "phoneMask": [
+            "+43 #### #######"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2404,6 +3125,9 @@
         "currency": "AWG",
         "iso2": "AW",
         "iso3": "ABW",
+        "phoneMask": [
+            "+297 ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2414,6 +3138,9 @@
         "currency": "INR",
         "iso2": "IN",
         "iso3": "IND",
+        "phoneMask": [
+            "+91 ##### #####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2424,6 +3151,9 @@
         "currency": "EUR",
         "iso2": "AX",
         "iso3": "ALA",
+        "phoneMask": [
+            "+358 18 ### ###"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2434,6 +3164,9 @@
         "currency": "AZN",
         "iso2": "AZ",
         "iso3": "AZE",
+        "phoneMask": [
+            "+994 ## ### ## ##"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2444,6 +3177,9 @@
         "currency": "EUR",
         "iso2": "IE",
         "iso3": "IRL",
+        "phoneMask": [
+            "+353 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2454,6 +3190,9 @@
         "currency": "IDR",
         "iso2": "ID",
         "iso3": "IDN",
+        "phoneMask": [
+            "+62 ### ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2464,6 +3203,9 @@
         "currency": "UAH",
         "iso2": "UA",
         "iso3": "UKR",
+        "phoneMask": [
+            "+380 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2474,6 +3216,9 @@
         "currency": "QAR",
         "iso2": "QA",
         "iso3": "QAT",
+        "phoneMask": [
+            "+974 #### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
@@ -2484,6 +3229,9 @@
         "currency": "MZN",
         "iso2": "MZ",
         "iso3": "MOZ",
+        "phoneMask": [
+            "+258 ## ### ####"
+        ],
         "documentCodePersona": null,
         "maskPersona": null,
         "documentCodeCompany": null,
